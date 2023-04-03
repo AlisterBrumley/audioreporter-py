@@ -1,3 +1,4 @@
+# v1.0
 import sys
 from pydub import AudioSegment
 
