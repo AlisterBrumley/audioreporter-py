@@ -11,7 +11,7 @@ Useful for quickly identifying audio file details during projects, or in a folde
 
 Alternatively `./reporter.py audiofile.wav` can also be used on unix-like machines
 
-Dependencies
+### Dependencies
  - Python 3
  - Pydub
  - ffprobe (from ffmpeg)
